@@ -2,7 +2,6 @@
 
 # Supplementary Materials
 
-Work in process
 TODO:
 - add dataset
 - add details to analysis pipeline
