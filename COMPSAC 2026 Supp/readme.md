@@ -11,12 +11,19 @@ The following shows the age distribution of each reference dataset used.
 
 
 <p align="center">
-<img width="2042" height="339" alt="dataset scope overview 2" src="https://github.com/user-attachments/assets/c96f42e4-7fe5-4f77-b689-0b1709dc4ace" />
-<img
-  alt="dataset scope overview"
-  src="https://github.com/user-attachments/assets/e63158a0-32f1-42cf-a721-2c3c2d90c64a"
-  style="width:50%;"
-/>
+  <img
+    width="800"
+    alt="dataset scope overview 2"
+    src="https://github.com/user-attachments/assets/c96f42e4-7fe5-4f77-b689-0b1709dc4ace"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="dataset scope overview"
+    src="https://github.com/user-attachments/assets/e63158a0-32f1-42cf-a721-2c3c2d90c64a"
+    style="width:50%;"
+  />
 </p>
 
 ## Details to Synthetic Dataset
